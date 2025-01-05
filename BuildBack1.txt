@@ -647,3 +647,10 @@ document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_wi
   newMusicPlayer()
 
 //#endcode
+
+  
+  HistHexcolour=["#BF4D4E","#697AB2","#63C085","#d9a75f"];
+  HistName=[" Donald Trump"," Kamala Harris"," Jill Stein", " Robert F. Kennedy Jr"];
+  HistEV=[312,226,0,0];
+  HistPV=["77,303,573","75,019,257","868,945","757,371"];
+  HistPVP=["49.9%","48.4%","0.6%","0.5%"];
