@@ -73503,6 +73503,10 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
+campaignTrail_temp.candidate_image_url = "https://i.imgur.com/SCsBL81.png";
+campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/Q46zv0m.jpeg";
+campaignTrail_temp.candidate_last_name = "Biden";
+campaignTrail_temp.running_mate_last_name = "Harris";
 
 
 campaignTrail_temp.jet_data = [{}
