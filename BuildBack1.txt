@@ -4,7 +4,7 @@ campaignTrail_temp.election_json = [
         "pk": 21,
         "fields": {
             "year": 2020,
-            "summary": "<p>After a close election, Joe Biden was elected the 46th President of the United States.</p><p>While highly contested among many within the Republican Party, resulting in riots at the Capitol on January 6th to try and overturn Biden's victory, President Biden took office on January 20th 2021.</p><p>President Biden needs to prove to the American people that he can get the country back on track and show our allies abroad that America is behind them. He'll need to remove the stain that the last four years have left behind.<p>But it won't be simple, Biden has a long way to go.</p?",
+            "summary": "<p>After a close election, Joe Biden was elected the 46th President of the United States.</p><p>While highly contested among many within the Republican Party, resulting in riots at the Capitol on January 6th to try and overturn Biden's victory, President Biden took office on January 20th 2021.</p><p>President Biden needs to prove to the American people that he can get the country back on track and show our allies abroad that America is behind them. He'll need to remove the stain that the last four years have left behind.<p>But it won't be simple, Biden has long way to go.</p?",
             "image_url": "https://i.imgur.com/h4HQ3un.png",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://www.jetsimon.com/public/static/images/dillon-stepien.jpg",
