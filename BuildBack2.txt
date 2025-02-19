@@ -13,7 +13,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1201,
         "fields": {
             "priority": 2,
-            "description": "Which of these themes will you emphasize the most as you campaign for President this year?",
+            "description": "Sometimes, you wonder if some people even have a heart. The first person that comes to mind on that note at the moment is Senator Joe Manchin, the one man standing in the way of your relief bill for American families, dubbed the American Rescue Plan. Does he derive joy out of obstructing you? It doesn’t matter, not now at least. What matters is how you plan to get through him.\n",
             "likelihood": 1
         }
     },
@@ -22,7 +22,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1202,
         "fields": {
             "priority": 3,
-            "description": "An outbreak of COVID-19 has led to a wave of stay-at-home orders and business closures. How will you campaign over the next few months?",
+            "description": "This isn’t your first rodeo. You’ve been to the State of the Union for decades now in different seats, watching different presidents argue for different agendas. The only difference is that you’re the president now. What would you like to push for from the podium?\n",
             "likelihood": 1
         }
     },
@@ -31,7 +31,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1203,
         "fields": {
             "priority": 3,
-            "description": "Your closest rival for the nomination, Bernie Sanders, will be meeting with you to discuss your policy objectives. What tone are you looking to strike with him?",
+            "description": "Once more, you find yourself in negotiations with Congress. On the campaign trail last fall, you made it a point to revitalize the nation, rebuild its soul, starting with the infrastructure itself. It seems that Congress has something else in mind. How much are you willing to compromise on this key bill?",
             "likelihood": 1
         }
     },
@@ -40,7 +40,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1204,
         "fields": {
             "priority": 4,
-            "description": "Trump's 2019 impeachment trial was closely tied the role your son, Hunter, took with a Ukranian energy company called Burisma. Was his appointment appropriate, given your son's background and skill set?",
+            "description": "As much as the hawks on the Hill would like to tell you otherwise, you know that the war in Afghanistan cannot last forever. Unless you are to become a liar to the country, something must be done, and soon. Jake walks you through a variety of plans that you may choose from. The only question is which.\n",
             "likelihood": 1
         }
     },
@@ -49,7 +49,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1205,
         "fields": {
             "priority": 4,
-            "description": "Do you plan to make Trump's 2019 impeachment a focus of your campaign? And if so, how much?",
+            "description": "You never wanted anyone to die. But sometimes, not all goes to plan. In this case, your withdrawal from Afghanistan. The final American troops were forced to escape via a rooftop, after a bomb left some dead and the rest retreating. Although the dust hasn’t yet settled, one thing is clear: you have a lot of explaining to do.\n",
             "likelihood": 1
         }
     },
@@ -58,7 +58,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1225,
         "fields": {
             "priority": 4,
-            "description": "What do you have to say about the selection of Kamala Harris as your running mate? What makes her the best choice?",
+            "description": "Although cases had been on the decline in past months, COVID has seemingly come roaring back from near-death, in a new variant known as Omicron. Your advisors, particularly those in health-related fields, are scrambling, suggesting a variety of solutions to quell the spread of the illness. But in the end, it is your decision. What’s the move?\n",
             "likelihood": 1
         }
     },
@@ -67,7 +67,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1206,
         "fields": {
             "priority": 5,
-            "description": "What are your thoughts on the death of George Floyd and the wave of protests in the wake of his death? Will you make an appearance at a Black Lives Matter event?",
+            "description": "In recent years, the issue of voting rights has taken the stage of importance on the national level, in part due to the work of activists such as Stacey Abrams. As such, it caught your attention as an item to put on your agenda. How would you like to pass this landmark legislation?\n",
             "likelihood": 1
         }
     },
@@ -94,7 +94,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1209,
         "fields": {
             "priority": 7,
-            "description": "As President, would you consider implementing policies such as a national lockdown or a mask mandate to control COVID-19?",
+            "description": "On the topic of the law, an upcoming decision has been leaked from the Supreme Court, regarding abortion. It is a draft of the majority decision in the case Dobbs v. Jackson, written by Justice Alito. It’s an overturning of Roe v. Wade. How will you respond to this surprise?\n",
             "likelihood": 1
         }
     },
@@ -103,7 +103,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1210,
         "fields": {
             "priority": 7,
-            "description": "What is your position on the need for a federal infrasctructure bill? How large should any package be?",
+            "description": "In Uvalde, Texas, 21 fresh bodies lie in caskets at the hands of yet another school shooting. The nation is shocked, and so are you. You are filled with disgust as you read the “thoughts and prayers” of the MAGA Republicans in response. You know that you must do something to stop another unspeakable tragedy of this sort. But what, and how?\n",
             "likelihood": 1
         }
     },
@@ -112,7 +112,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1218,
         "fields": {
             "priority": 8,
-            "description": "With the tragic passing of Ruth Bader-Ginsburg, it appears that Republicans are poised to place another conservative judge on the Supreme Court. What are your thoughts on their tactics?",
+            "description": " It seems the leak last month was correct. As expected, the Dobbs case has ended in the overturning of Roe v. Wade, and with it, the erosion of federal abortion rights. All three of Trump’s “justices” voted to overturn it, along with the other three Republican appointees on the Court. Roe should’ve been codified years ago, you think to yourself. But as the saying goes, the next best time to plant a tree is now.\n",
             "likelihood": 1
         }
     },
@@ -121,7 +121,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1219,
         "fields": {
             "priority": 8,
-            "description": "Do you support the plans of some in your party to expand the size of the Supreme Court, in order to counteract the Republicans' actions in regard to Merrick Garland and Amy Coney Barret?",
+            "description": "With the upcoming midterms, your party has been looking for any win it can get. Fortunately for them, you had a few ideas in mind. The CHIPS and PACT Acts, designed to help manufacturing and veterans respectively, would do just the trick, you believe. The only problem is passing them. How will you market them?\n",
             "likelihood": 1
         }
     },
@@ -130,7 +130,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1221,
         "fields": {
             "priority": 9,
-            "description": "What is your reaction to the news that President Trump has contracted COVID-19 and been hospitalized?",
+            "description": "You are back at the bargaining table, and seemingly with less power than ever. Your Inflation Reduction Act, a bill designed to kill two birds with one stone - climate and the economy - is being held up by two familiar faces. Senators Joe Manchin and Kyrsten Sinema are “concerned” with some of the material within it. How will you outfox them this time?",
             "likelihood": 1
         }
     },
@@ -139,7 +139,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1220,
         "fields": {
             "priority": 9,
-            "description": "Are you open to attending the customary three debates with your opponent, Mr. Trump?",
+            "description": "The “bully pulpit”, or so to speak, has been recognized as an informal power of the presidency since the days of Teddy Roosevelt. You just pray it doesn’t fail you tonight. You wish the country already knew it, but it’s fallen to you to say it: democracy is in danger. How do you intend on conveying this all-too-important message?\n",
             "likelihood": 1
         }
     },
@@ -4857,7 +4857,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 300,
             "state": 1102,
-            "state_multiplier": 1.0449190374
+            "state_multiplier": 0.97382183
         }
     },
     {
@@ -5361,7 +5361,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 301,
             "state": 1102,
-            "state_multiplier": 1
+            "state_multiplier": 0.99382183
         }
     },
     {
@@ -73503,50 +73503,6 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
-e.cyoa = true
-e.noCounter = 0
-
-e = campaignTrail_temp
-
-
-campaignTrail_temp.candidate_image_url = 'https://i.imgur.com/SCsBL81.png';
-campaignTrail_temp.running_mate_image_url = 'https://i.imgur.com/Q46zv0m.jpeg';
-campaignTrail_temp.candidate_last_name = '';
-campaignTrail_temp.running_mate_last_name = '';
-campaignTrail_temp.running_mate_state_id = '469';
-campaignTrail_temp.player_answers = [];
-campaignTrail_temp.player_visits = [];
-campaignTrail_temp.answer_feedback_flg = 1;
-campaignTrail_temp.game_start_logging_id = '3662479';
-
-const targetNode = document.getElementById("game_window");
-const config = { attributes: true, childList: true, subtree: true };
-
-function onGameWindowChanged(mutationList, observer) {
-    updateQuestionBanner();
-}
-
-function updateQuestions(mutationList, observer) {
-    if (answerObject.fields.condition != null) {
-        answer.disabled = !(eval(answerObject.fields.condition));
-    }
-}
-
-const observer = new MutationObserver(onGameWindowChanged);
-    observer.observe(targetNode, config);
-
-e.VPisCandidate = 0;
-function updateQuestionBanner() {
-    let questionBanner = document.getElementById("campaign_sign");
-    if (!questionBanner || questionBanner.nodeName != "DIV") return;
-    let img = document.createElement('img');
-    if(e.VPisCandidate == 0)
-    {
-        img.src = 'https://i.imgur.com/gVHheYv.png';
-        img.width = 250; // Adjust the width as needed
-        img.height = 105; // Adjust the height as needed
-    }  questionBanner.replaceWith(img);
-} 
 
 
 campaignTrail_temp.jet_data = [{}
