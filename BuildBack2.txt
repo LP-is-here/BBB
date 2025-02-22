@@ -4,7 +4,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1200,
         "fields": {
             "priority": 1,
-            "description": "What will you say to the American people as you accept your party's nomination for President?",
+            "description": "January 20th 2021 - Inauguration",
             "likelihood": 1
         }
     },
@@ -76,7 +76,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1208,
         "fields": {
             "priority": 6,
-            "description": "To what extent do you support emergency economic legislation to address the effects of COVID-19 on society?",
+            "description": "February 2022 - Ukraine",
             "likelihood": 1
         }
     },
@@ -85,7 +85,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1216,
         "fields": {
             "priority": 7,
-            "description": "What is your opinion on the expansion of mail-in voting and early voting in this election? Do you have any concerns?",
+            "description": "April 2022 - Trump DOJ",
             "likelihood": 1
         }
     },
@@ -148,7 +148,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1213,
         "fields": {
             "priority": 10,
-            "description": "To what extent will you undo the draconian immigration and asylum policies that have been enacted under Trump?",
+            "description": "A - IRL (Lose the House but keep the Senate)\n\nThe midterm elections are now in the past, and with them, the Democratic trifecta in Congress. While managing to hold on, and even gain a seat, in the Senate, Republicans won back the House of Representatives, and will hold the majority starting January. Would you like to try and get anything through in the remaining months?\n",
             "likelihood": 1
         }
     },
@@ -157,7 +157,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1217,
         "fields": {
             "priority": 10,
-            "description": "There has been an increase in Asian-American hate crimes in 2020, along with the rise of COVID and the inflammatory statements of Trump. What do you think about this?",
+            "description": "January 2023 - Classified Documents",
             "likelihood": 1
         }
     },
@@ -166,7 +166,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1215,
         "fields": {
             "priority": 10,
-            "description": "Recent articles have discussed Donald Trump paying no federal income taxes in some previous years, or having a secret Chinese bank account. Is this something you want to emphasize?",
+            "description": "March 2023 - Re-election\nA. Run for re-election",
             "likelihood": 1
         }
     },
@@ -175,7 +175,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1212,
         "fields": {
             "priority": 10,
-            "description": "What are your views about the relationship wih China? Has Trump been too antagonistic on the trade issue?",
+            "description": "A - (IRL/Red Wave) You’re dealing with your first major battle with Congress since losing your trifecta back in November, the country is about to hit its debt limit. How are you going to negotiate with Republicans so the country doesn’t default?\n",
             "likelihood": 1
         }
     },
@@ -184,7 +184,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1211,
         "fields": {
             "priority": 10,
-            "description": "Do you support the recent truce with the Taliban in Afghanistan? What would your policy be in that country?",
+            "description": "A. (re-election) \nYou’re scheduled to kick off your re-election campaign in Pennsylvania this afternoon, preaching to those union boys who brought you to the finish line last time around. You know you’re not as young as you used to be. But now it’s up to you to show them, and the country, that you’re up for four more years of the job. What do you have to say?\n",
             "likelihood": 1
         }
     },
@@ -193,7 +193,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1214,
         "fields": {
             "priority": 10,
-            "description": "Which gun control measures do you favor? Which ones do you oppose?",
+            "description": "A. (IRL/Red Wave) Impeachment Inquiry",
             "likelihood": 1
         }
     },
@@ -202,7 +202,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1222,
         "fields": {
             "priority": -3,
-            "description": "President Trump has repeatedly dodged the question when asked whether he will accept the results of this year's election. Do you have any statements to make?",
+            "description": "October 7th 2023 - Israel/Gaza\n",
             "likelihood": 1
         }
     },
@@ -211,7 +211,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1223,
         "fields": {
             "priority": -2,
-            "description": "Right-wing websites have been circulating a story about a laptop that your son, Hunter, purportedly lost. Do you have any comment?",
+            "description": "A (IRL/Red Wave)\nYou can’t help but chuckle at it. Even a majority in the House can’t stop these people from eating each other alive. After winning the midterms by feasting on discontent of your administration, House Republicans have turned their sights to Speaker McCarthy. It’s the first time in history that members of Congress have tried to depose their speaker. Care to comment on this?",
             "likelihood": 1
         }
     },
@@ -220,7 +220,241 @@ campaignTrail_temp.questions_json = [
         "pk": 1224,
         "fields": {
             "priority": -1,
-            "description": "Where do you want to concentrate your attention on during the final day of the campaign?",
+            "description": "(re-election) February - Hue Report",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41421,
+        "fields": {
+            "priority": 0,
+            "description": "It’s been six months since the Israel-Hamas Conflict started and many among the left have been critical in Israel’s handling of the conflict especially in Gaza, protests among college campuses are becoming louder and louder and you’re taking some of the heat for it due to your support of Israel. Will you change your positions in order to settle these protests?",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41422,
+        "fields": {
+            "priority": 0,
+            "description": "May 31st 2024 - Trump Guilty",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41423,
+        "fields": {
+            "priority": 0,
+            "description": "A. (re-election)\nA man of your honor doesn’t shake the hand of a man like Trump, no matter the time or the place. Debate stage or not. After all, you beat him last time, didn’t you? The moderator rambles through a set of nonsense guidelines, and you are given the floor. What do you have to say tonight?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41424,
+        "fields": {
+            "priority": 0,
+            "description": "July 13th 2024 - Trump Assassination Attempt",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41425,
+        "fields": {
+            "priority": 0,
+            "description": "A. (IRL) Vance",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41426,
+        "fields": {
+            "priority": 0,
+            "description": "A. (re-election) - stay in/drop out",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41427,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Harris/drop out/don’t run again): reflecting on your career \nIt’s hard to believe, after more than 50 years in public service, that it’s all soon coming to a close. Just a few short months left. Still, there’s more to do. You cannot let Donald Trump return to the White House. At the Democratic National Convention, your name has just been called. What do you have to say to the delegates, and the country at large?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41428,
+        "fields": {
+            "priority": 0,
+            "description": "A. (Harris) Debate Trump",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41429,
+        "fields": {
+            "priority": 0,
+            "description": "October 2024 - Government Shutdown\nA. (IRL/Red Wave) -",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41430,
+        "fields": {
+            "priority": 0,
+            "description": "A. (Harris/Drop Out)\nYou breathe, not quite a sigh of relief, but certainly not one of exhaustion either. Your swiftly thrown together campaign is nearing its final day, for better or for worse. But in the thick of your final stop, that’s not what you’re focused on. Where have you decided to focus your final resources?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41431,
+        "fields": {
+            "priority": 0,
+            "description": "B - Red Wave (Lose Both Chambers, GOP has 230 House Seats and 51 Seat Senate)\nWhen you won in 2020, you were excited by the prospect of having both houses of Congress on your side. That is an advantage that you’ll no longer have, beginning in January. Republicans have won both chambers in a red wave. Now is your last chance to push through any major legislation until next time around. What did you have in mind?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41432,
+        "fields": {
+            "priority": 0,
+            "description": "C - Trifecta (Dems keep both chambers, 220ish House seats, 52 Senate seats)\nYou can’t help but feel a little bit vindicated after seeing the results of the midterm elections, in which Democrats expanded their majority in the Senate, and held the House, albeit by a narrow margin. Your legislative prospects will be brighter than ever, come January. How will you exploit this victory?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41433,
+        "fields": {
+            "priority": 0,
+            "description": "B - (Trifecta) The country is once again about to hit its debt limit even after you already raised the limit once back in December 2021, with a more strengthened majority than last time, how are you going to make it so this time isn’t as much of a fiasco?",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41434,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Harris)\nWhen President Biden announced he wasn’t running for re-election, the spotlight quickly moved to you. But you know that’s not why you’re here today. You’re here to prove yourself. Outside of your green room is a rally of union workers, Joe’s sort of people. You’re dead on arrival without them in the primary. How will you win them over?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41435,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Trifecta) UAW Strike",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41436,
+        "fields": {
+            "priority": 0,
+            "description": "B. Something must be done, you just know it. You can’t just betray America’s commitments around the world, whatever those “America First” numbskulls have to say about it. It doesn’t take an idiot to see that. You cannot abandon Ukraine or Israel at any cost. How will you defend America’s honor?",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41437,
+        "fields": {
+            "priority": 0,
+            "description": "(Harris) January - Primary\nAlthough you’re seen as a natural successor to Biden, you still have a lot of work to do in broadening your appeal to the nation, and more specifically, the primary. \n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41438,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Harris/against re-election) Paris",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41439,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Red Wave) Carson",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41440,
+        "fields": {
+            "priority": 0,
+            "description": "C. (Trifecta) Rubio\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41441,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Harris) - VP selection\nWith the primary field long cleared out and the convention in just over a month, many are wondering who you plan to choose to be your running mate. While there have been many names thrown out, your shortlist has been narrowed down to just four. Which of them do you plan on choosing?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41442,
+        "fields": {
+            "priority": 0,
+            "description": "B. (stay in): pushing your case for a second term\nDespite what the pundits said, what the donors said after the debate, you have managed to hold on to the nomination. Now, it’s up to you to prove them wrong about you. After the debate, your campaign has been banking on a knock-out speech at the convention. From your green room backstage, you hear the call for your name. How will you keep America behind you?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41443,
+        "fields": {
+            "priority": 0,
+            "description": "B. (stay in) Campaigning\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41444,
+        "fields": {
+            "priority": 0,
+            "description": "B. (Trifecta) -",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41445,
+        "fields": {
+            "priority": 0,
+            "description": "B. (stay in)\nOnly one day left until the election. It’s a good day. You get a funny feeling knowing that it’s the final campaign stop of your final campaign ever. You know you’ll miss it, shaking hands, meeting new people to connect with, and everything in between. Still, you have other things on your mind. Where are you this afternoon?\n",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
+        "pk": 41446,
+        "fields": {
+            "priority": 0,
+            "description": "C. (Harris/don’t run for reelection)\n",
             "likelihood": 1
         }
     }
@@ -73508,6 +73742,7 @@ campaignTrail_temp.answer_feedback_json = [
 campaignTrail_temp.jet_data = [{}
 ]
 
+
 e.cyoa = true
 e.noCounter = 0
 
@@ -73552,3 +73787,4 @@ function updateQuestionBanner() {
         img.height = 100; // Adjust the height as needed
     }  questionBanner.replaceWith(img);
 }
+
